@@ -1,0 +1,46 @@
+{
+  "name": "Amo's Dark Sky",
+  "description": "Amo's Dark Sky - A futuristic, dark purple-blue galaxy-inspired theme with minimal, transparent, glassy iOS-like aesthetics, featuring soft gradients, neon glows, and a modern grid-based layout.",
+  "authors": [
+    {
+      "name": "Amo",
+      "id": "777"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#D8BFFF", "#E6D9FF", "#A78BFA"],
+    "HEADER_SECONDARY": ["#B3A0FF", "#C4B8FF", "#8B7BFA"],
+    "TEXT_NORMAL": ["#E6D9FF", "#F2E9FF", "#B3A0FF"],
+    "TEXT_MUTED": ["#A78BFA", "#B3A0FF", "#7B61FF"],
+    "INTERACTIVE_NORMAL": ["#D8BFFF", "#E6D9FF", "#A78BFA"],
+    "INTERACTIVE_HOVER": ["#B3A0FF", "#C4B8FF", "#8B7BFA"],
+    "INTERACTIVE_ACTIVE": ["#E6D9FF", "#F2E9FF", "#B3A0FF"],
+    "BACKGROUND_PRIMARY": ["rgba(30, 25, 60, 0.8)", "rgba(40, 35, 80, 0.8)", "rgba(20, 15, 50, 0.9)"],
+    "BACKGROUND_SECONDARY": ["rgba(40, 35, 80, 0.7)", "rgba(50, 45, 100, 0.7)", "rgba(30, 25, 60, 0.8)"],
+    "BACKGROUND_TERTIARY": ["rgba(50, 45, 100, 0.6)", "rgba(60, 55, 120, 0.6)", "rgba(40, 35, 80, 0.7)"],
+    "BACKGROUND_ACCENT": ["#7B61FF", "#8B7BFA", "#5C43D2"],
+    "SUCCESS": ["#6EFFB3", "#7AFFC2", "#4AE69E"],
+    "WARNING": ["#FFB86C", "#FFC085", "#FF9F43"],
+    "DANGER": ["#FF6C6C", "#FF8585", "#FF4343"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#F2E9FF",
+    "PRIMARY_200": "#D8BFFF",
+    "PRIMARY_300": "#B3A0FF",
+    "PRIMARY_400": "#A78BFA",
+    "PRIMARY_500": "#8B7BFA",
+    "PRIMARY_600": "#7B61FF",
+    "PRIMARY_700": "#5C43D2",
+    "PRIMARY_800": "#3C2F8F",
+    "ACCENT": "#7B61FF",
+    "LINK": "#B3A0FF",
+    "MENTION": "rgba(139, 123, 250, 0.3)",
+    "MENTION_HOVER": "rgba(139, 123, 250, 0.5)"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "https://i.pinimg.com/564x/12/02/2d/12022db84515d2d740b5d05d2e34c9e9.jpg",
+    "alpha": 0.6
+  }
+}
