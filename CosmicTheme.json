@@ -44,7 +44,7 @@
         "TEXT_NORMAL": [ "#E8F1FF" ],
         "TEXT_MUTED": [ "#4B0082" ],
         "TEXT_PRIMARY": [ "#E8F1FF" ],
-        "THREAD_CHANNEL_SPINE": [ "#4B0082" ],
+        "THREAD_CHANNEL_SPINE": [ "#3f51b5" ],
         "BG_BASE_PRIMARY": [ "#1A1A1C" ],
         "BG_BASE_SECONDARY": [ "#15172A" ],
         "BG_BASE_TERTIARY": [ "#1F253F" ],
