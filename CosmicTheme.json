@@ -100,7 +100,7 @@
         "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#6B3FA0",
         "GUILD_BOOSTING_PINK": "#7B68EE",
         "GUILD_BOOSTING_PURPLE": "#6B3FA0",
-        "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#4B0082"
+        "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#3f51b5"
     },
     "background": {
         "blur": 0.4,
@@ -118,7 +118,7 @@
           "ic_radio_square_checked_24px": "#3f51b5",
           "ic_radio_square_checked_24px__overlay": "#FFFFFF",
           "ic_rich_presence_dark_12px": "#7B68EE",
-          "ic_selection_checked_24px": "#4B0082",
+          "ic_selection_checked_24px": "#3f51b5",
           "ic_selection_checked_24px__overlay": "#FFFFFF",
           "ic_star_filled": "#6B3FA0",
           "img_guild_folder": "#3f51b5",
